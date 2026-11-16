@@ -16,6 +16,7 @@ Based in Riccione, Italy. Open to Italy, the Netherlands and remote work across 
 
 | Repository | What it is |
 |---|---|
+| [biodatalab-pipeline](https://github.com/malpone/biodatalab-pipeline) | A wearable-style data pipeline on fully synthetic data: hash-verified raw layer, one row per day with every device in its own columns, read-only quality checks and 17 tests. Rebuilt from the design rules of my private BioDataLab. MIT licence |
 | [revops-data-agents-demo](https://github.com/malpone/revops-data-agents-demo) | Three Claude Code agents (data-quality auditor, ingest orchestrator, hypothesis tester) and the Python scripts behind them, run on fully synthetic lead-to-revenue data. A demo for a portfolio, not in production use. MIT licence |
 | [llm-council-protocol](https://github.com/malpone/llm-council-protocol) | A manual, evidence-first protocol for making several AI models review the same work, packaged as an agent skill, with a scoring script. MIT licence |
 
