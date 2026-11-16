@@ -16,6 +16,7 @@ Based in Riccione, Italy. Open to Italy, the Netherlands and remote work across 
 
 | Repository | What it is |
 |---|---|
+| [revops-data-agents-demo](https://github.com/malpone/revops-data-agents-demo) | Three Claude Code agents (data-quality auditor, ingest orchestrator, hypothesis tester) and the Python scripts behind them, run on fully synthetic lead-to-revenue data. A demo for a portfolio, not in production use. MIT licence |
 | [llm-council-protocol](https://github.com/malpone/llm-council-protocol) | A manual, evidence-first protocol for making several AI models review the same work, packaged as an agent skill, with a scoring script. MIT licence |
 
 Most of my other work (client projects, a personal data pipeline) is private.
